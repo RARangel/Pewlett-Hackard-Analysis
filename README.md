@@ -12,24 +12,24 @@ Language: SQL
 
 Application: PostgresSQL
 
-Code: Employee_DATABASE_challenge.sql [file](Employee_DATABASE_challenge.sql)
+Code: Employee_DATABASE_challenge.sql[file](Employee_DATABASE_challenge.sql)
 
 ### Deliverables
 Deliverable 1: 
 
-- Table of Employees who are retiring: retirement_titles.csv [file](retirement_titles.csv)
+- Table of Employees who are retiring: retirement_titles.csv[file](retirement_titles.csv)
 
-- Table of Unique Titles: unique_titles.csv [file](unique_titles.csv)
+- Table of Unique Titles: unique_titles.csv[file](unique_titles.csv)
 
-- Number of Retiring Employees by Title: retiring_titles.csv [file](retiring_titles.csv)
+- Number of Retiring Employees by Title: retiring_titles.csv[file](retiring_titles.csv)
 
 Deliverable 2: 
 
-- The Employees Eligible for the Mentorship Program [file](mentorship_eligibilty.csv)
+- The Employees Eligible for the Mentorship Program[file](mentorship_eligibilty.csv)
 
 Deliverable 3: 
 
-- A written report on the employee database analysis (README.md)
+- A written report on the employee database analysis(README.md)
 
 ## Summary
 
