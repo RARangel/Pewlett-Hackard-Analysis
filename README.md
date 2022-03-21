@@ -8,9 +8,9 @@ and identify employees who are eligible to participate in a mentorship program.
 
 ### Results
 
-Language:SQL
+Language: SQL
 
-ApplicationPostgresSQL
+Application: PostgresSQL
 
 Code: Employee_DATABASE_challenge.sql
 
