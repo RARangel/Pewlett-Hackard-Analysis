@@ -12,7 +12,7 @@ Language: SQL
 
 Application: PostgresSQL
 
-Code: Employee_DATABASE_challenge.sql
+Code: Employee_DATABASE_challenge.sql [file](Employee_DATABASE_challenge.sql)
 
 ### Deliverables
 Deliverable 1: 
