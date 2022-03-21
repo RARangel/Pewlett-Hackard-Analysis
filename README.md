@@ -17,15 +17,15 @@ Code: Employee_DATABASE_challenge.sql [file](Queries/Employee_DATABASE_challenge
 ### Deliverables
 Deliverable 1: 
 
-- Table of Employees who are retiring: retirement_titles.csv[file](Data/retirement_titles.csv).
+- Table of Employees who are retiring: retirement_titles.csv [file](Data/retirement_titles.csv).
 
-- Table of Unique Titles: unique_titles.csv[file](Data/unique_titles.csv).
+- Table of Unique Titles: unique_titles.csv [file](Data/unique_titles.csv).
 
-- Number of Retiring Employees by Title: retiring_titles.csv[file](Data/retiring_titles.csv).
+- Number of Retiring Employees by Title: retiring_titles.csv [file](Data/retiring_titles.csv).
 
 Deliverable 2: 
 
-- The Employees Eligible for the Mentorship Program[file](Data/mentorship_eligibilty.csv).
+- The Employees Eligible for the Mentorship Program [file](Data/mentorship_eligibilty.csv).
 
 Deliverable 3: 
 
