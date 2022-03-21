@@ -34,9 +34,13 @@ Deliverable 3:
 ## Summary
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+    There are over 72,000 employees who are reaching retirement age.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    There are over 1500 employees who are elilble for mentorship.  There does not seem to be enough elibible employees, so there will need to be
+    a considerable amount of hiring to offset the silver tsunami.
 
+Two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+The company can look at the salaries table to see how much could be saved from retiring employees and hiring younger, entry level staff.  Also 
+the salaries table would give insight into which positions can be sought after in the job market/ recruitment drives.
 
-Then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
